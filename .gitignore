@@ -1,0 +1,17 @@
+.openclaw/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+memory/
+MEMORY.md
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+hackernews.txt
+hackernews_playwright.py
